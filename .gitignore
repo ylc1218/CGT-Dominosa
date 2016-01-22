@@ -1,0 +1,6 @@
+
+00-local/*
+*.aux
+*.out
+*.synctex
+
